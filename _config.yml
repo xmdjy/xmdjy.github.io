@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: A blog written by xmdjy
+description: 记录有关我的事情
+url: https://xmdjy.github.io
+avatar: /aaa.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: xmdjy
   url: https://github.com/vszhub/
   email: vszhub@gmail.com
