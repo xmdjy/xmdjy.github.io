@@ -8,8 +8,35 @@ body, p, span, div, article, h1, h2, h3, h4, h5, h6, a, li, td, th {
 }
 
 .fa, .fas, .far, .fab, .fal, .fad, i[class*="fa-"] {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
+    font-weight: 900 !important;
+}
+
+/* 确保社交媒体图标正确显示 */
+.social-media .fa-github {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400 !important;
+}
+
+.social-media .fa-qq {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400 !important;
+}
+
+/* 确保所有FontAwesome图标都能正确显示 */
+.fab {
+    font-family: "Font Awesome 6 Brands" !important;
+    font-weight: 400 !important;
+}
+
+.fas {
     font-family: "Font Awesome 6 Free" !important;
     font-weight: 900 !important;
+}
+
+.far {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 400 !important;
 }
 
 .typed-cursor {
