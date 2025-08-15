@@ -1,0 +1,35 @@
+/* 自定义字体样式 */
+body, p, span, div, article, h1, h2, h3, h4, h5, h6, a, li, td, th {
+    font-family: 'KaiTi', '楷体', '仿宋', 'FangSong', 'STKaiti', '华文楷体', serif !important;
+}
+
+*:lang(en), *[lang="en"] {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.fa, .fas, .far, .fab, .fal, .fad, i[class*="fa-"] {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 900 !important;
+}
+
+.typed-cursor {
+    color: #49b1f5 !important;
+}
+
+#subtitle .subtitle, .typed-subtitle, .subtitle, .site-subtitle, #site-subtitle, .hero-subtitle {
+    font-family: 'KaiTi', '楷体', '仿宋', 'FangSong', 'STKaiti', '华文楷体', serif !important;
+    font-size: 20px !important;
+    color: #ffffff !important;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5) !important;
+    font-weight: 400 !important;
+    letter-spacing: 2px !important;
+}
+
+.site-title {
+    font-family: 'Montserrat', 'KaiTi', '楷体', serif !important;
+    font-weight: 700;
+}
+
+input, textarea, button {
+    font-family: 'Montserrat', 'KaiTi', '楷体', sans-serif !important;
+}
